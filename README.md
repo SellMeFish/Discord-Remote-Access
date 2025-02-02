@@ -61,7 +61,7 @@ This software should only be used with **full authorization and consent** for re
 
 ## 📷 Screenshots (Placeholders)
 
-![Debugging Preview](https://imgur.com/a/xE9k4Um.png)
+![Debugging Preview](https://imgur.com/xE9k4Um.png)
 
 ![Gui Preview](https://imgur.com/Fzt2DXJ.png)
 
