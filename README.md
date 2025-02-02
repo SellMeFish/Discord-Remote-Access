@@ -61,13 +61,13 @@ This software should only be used with **full authorization and consent** for re
 
 ## 📷 Screenshots (Placeholders)
 
-![Placeholder for Screenshot 1](https://imgur.com/undefined)
+![Debugging Preview](https://imgur.com/a/XX73Gmg)
 
-![Placeholder for Screenshot 1](images/screenshot1.png)
+![Gui Preview](https://imgur.com/Fzt2DXJ.png)
 
-![Placeholder for Screenshot 1](images/screenshot1.png)
+![Gui Preview](https://imgur.com/Fzt2DXJ.png)
 
-![Placeholder for Screenshot 2](images/screenshot2.png)
+![Gui Preview](https://imgur.com/Fzt2DXJ.png)
 
 ---
 
