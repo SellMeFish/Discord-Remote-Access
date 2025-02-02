@@ -63,12 +63,9 @@ This software should only be used with **full authorization and consent** for re
 
 ![Debugging Preview](https://i.imgur.com/qCT2w0B.png)
 
-![Gui Preview](https://imgur.com/Fzt2DXJ.png)
+![Debugging Preview2](https://i.imgur.com/ch7fJnz.png)
 
-![Gui Preview](https://imgur.com/Fzt2DXJ.png)
-
-![Gui Preview](https://imgur.com/Fzt2DXJ.png)
-
+![Bot Preview](https://i.imgur.com/qYTt6BB.png)
 ---
 
 ## 🛠 Installation & Setup Guide
