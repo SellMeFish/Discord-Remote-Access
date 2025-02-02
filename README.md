@@ -59,7 +59,7 @@ This software should only be used with **full authorization and consent** for re
 
 ---
 
-## 📷 Screenshots (Placeholders)
+## 📷 Screenshots
 
 ![Debugging Preview](https://i.imgur.com/qCT2w0B.png)
 
@@ -84,7 +84,7 @@ To launch the bot, execute:
 ```bash
 python client.py
 ```
-This will initialize the first-time setup, including startup persistence and security bypass demonstrations.
+This will initialize the first-time setup, including startup persistence and security bypass.
 
 ---
 
@@ -115,6 +115,7 @@ To convert this Python script into a standalone Windows executable:
 - Developed for **educational cybersecurity research**.
 - Inspired by ethical hacking, malware analysis, and penetration testing.
 - Contributions & improvements are welcome.
+- Add me on Discord: easylogs for Idea sharing :)
 
 ---
 
